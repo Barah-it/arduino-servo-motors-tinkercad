@@ -20,7 +20,7 @@ The project uses the Servo.h library and millis() to control the movement durati
 
 ## Circuit
 
-![Tinkercad Circuit](tinkercad_circuit.png)
+![Tinkercad Circuit](tinkercad_circuit..png)
 
 ## Files
 
